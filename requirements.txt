@@ -1,0 +1,4 @@
+Plaintext
+openai
+python-dotenv
+requests
